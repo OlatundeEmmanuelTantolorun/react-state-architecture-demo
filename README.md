@@ -1,6 +1,6 @@
 # 🍊 AmberTask - React Task Manager
 
-[**✨ View Live Demo**](INSERT_LINK_HERE)
+[**✨ View Live Demo**](https://react-state-architecture-demo.netlify.app/)
 
 An intentional UI/UX experiment focusing on accessibility and seamless state management. Built to demonstrate clean React architecture and responsive design patterns.
 
@@ -27,7 +27,8 @@ Most todo apps are cluttered. **AmberTask** was built to test:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com
+git clone https://github.com/OlatundeEmmanuelTantolorun/react-state-architecture-demo.git
+
 cd  react-state-architecture-demo
 npm install
 npm start
